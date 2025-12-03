@@ -17,3 +17,4 @@ weight: 999
 ---
 * [ ] List
 * [ ] Another List
+* [x] checked/done
