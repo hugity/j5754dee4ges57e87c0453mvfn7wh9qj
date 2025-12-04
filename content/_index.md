@@ -32,6 +32,6 @@ Keep your documentation structured with sections, categories, and an intuitive n
 
 ***
 
-## Getting Started
+## Getting Started!
 
 Ready to dive in? Check out our documentation to learn more about how to make the most of this platform.
